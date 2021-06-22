@@ -1,5 +1,5 @@
 # Author: Pratik Pradhan
-# Calculator to perfom basic operations
+# Calculator to perform basic operations
 
 # Perform operations using python dictionary
 def cal(num1,num2,ch):
