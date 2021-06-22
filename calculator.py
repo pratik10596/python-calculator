@@ -10,7 +10,7 @@ def cal(num1,num2,ch):
         4 : num1/num2
     }[ch]      
 
-ch=int(1)
+ch=1
 
 while (ch > 0):
     print("Press 1 For Addition")
